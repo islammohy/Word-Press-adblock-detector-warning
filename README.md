@@ -1,8 +1,5 @@
 # AdBlock Detector WordPress Plugin
 
-![WordPress Version](https://img.shields.io/wordpress/plugin/v/adblock-detector)
-![License](https://img.shields.io/github/license/islammohy/Word-Press-adblock-detector-warning)
-![Last Commit](https://img.shields.io/github/last-commit/islammohy/Word-Press-adblock-detector-warning)
 
 ## Description
 
